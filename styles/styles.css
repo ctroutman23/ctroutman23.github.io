@@ -1,0 +1,38 @@
+/* Global Selectors */
+html {
+ font-size: 10px;
+ font-family: "Roboto, sans-serif"; 
+ background-color: #663399;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FFE4E1;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  color:#663399;
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 2px 2px 1px black;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
